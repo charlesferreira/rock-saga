@@ -1,0 +1,34 @@
+{
+    "name": "Loja de Instrumentos",
+    "items": [{
+              "brand": "Tonante",
+              "model": "Telecaster",
+              "price": 25,
+              "quality": 0.02
+              }, {
+              "brand": "Shelter",
+              "model": "SX",
+              "price": 300,
+              "quality": 0.20
+              }, {
+              "brand": "Tagima",
+              "model": "Stratocaster",
+              "price": 800,
+              "quality": 0.35
+              }, {
+              "brand": "Epiphone",
+              "model": "Les Paul Standard",
+              "price": 1200,
+              "quality": 0.66
+              }, {
+              "brand": "Fender",
+              "model": "Telecaster",
+              "price": 3000,
+              "quality": 0.8
+              }, {
+              "brand": "Epiphone Gibson",
+              "model": "Flying V",
+              "price": 5000,
+              "quality": 1.0
+              }]
+}
