@@ -1,0 +1,48 @@
+{
+    "pista": {
+        "name": "Pista de Skate",
+        "requiredStars": 1,
+        "fixedEarnings": 0,
+        "tipsCooldown": 10,
+        "tipBaseValue": 1,
+        "gigDuration": 20,
+        "performanceBonus": 1,
+        "reputationBoost": 20
+    },
+    "tadeu": {
+        "name": "Bar do Tadeu",
+        "requiredStars": 2,
+        "fixedEarnings": 300,
+        "tipsCooldown": 12,
+        "tipBaseValue": 2,
+        "gigDuration": 30,
+        "performanceBonus": 2,
+        "reputationBoost": 30
+    },
+    "xv": {
+        "name": "Rua XV",
+        "requiredStars": 3,
+        "fixedEarnings": 0,
+        "tipsCooldown": 5,
+        "tipBaseValue": 5,
+        "gigDuration": 30,
+        "performanceBonus": 10,
+        "reputationBoost": 50
+    },
+    "john-bull": {
+        "name": "John Bull",
+        "requiredStars": 4,
+        "fixedEarnings": 1800,
+        "gigDuration": 30,
+        "performanceBonus": 4,
+        "reputationBoost": 75
+    },
+    "pedreira": {
+        "name": "Pedreira",
+        "requiredStars": 5,
+        "fixedEarnings": 2500,
+        "gigDuration": 40,
+        "performanceBonus": 25,
+        "reputationBoost": 100
+    },
+}
