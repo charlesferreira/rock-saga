@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  RiseOfARockstar
+//  RockSaga
 //
 //  Created by Charles Ferreira on 30/01/2018.
 //  Copyright © 2018 Charles Ferreira. All rights reserved.
